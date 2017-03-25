@@ -1,3 +1,7 @@
+# Let me google that for you
+
+A slack implementation for "let me google that for you"
+
 # Your StdLib Slack App
 
 Welcome to your StdLib Slack template! Here we'll walk you through how
