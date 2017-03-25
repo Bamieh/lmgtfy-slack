@@ -1,6 +1,8 @@
 # Let me google that for you
 
-A slack implementation for "let me google that for you"
+A slack implementation for "let me google that for you" to install the integration for you slack team, go to the following link:
+
+https://Bamieh.stdlib.com/lmgtfy@dev
 
 # Your StdLib Slack App
 
